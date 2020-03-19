@@ -8,6 +8,7 @@
     - [Image-to-Image Translation](#image-to-image-translation)
     - [Improving the cost function & the Network design](#improving-the-cost-function-the-network-design)
     - [Super-Resolution](#super-resolution)
+    - [Evaluation](#evaluation)
   - [Computer Vision](#computer-vision)
 	- [Loss Function](#loss-function)
 	- [Feature Interpolation](#feature-interpolation)
