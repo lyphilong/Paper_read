@@ -1,4 +1,4 @@
-# # Paper Reading List
+# Paper Reading List
 
 <!-- TOC -->
 - [Paper Reading List](#paper-reading-list)
@@ -8,8 +8,6 @@
     - [Image-to-Image Translation](#image-to-image-translation)
     - [Improving the cost function & the Network design](#improving-the-cost-function-the-network-design)
     - [Super-Resolution](#super-resolution)
-    - [Disentanglement](#disentanglement)
-    - [Consistency Regularization](#consistency-regularization)
   - [Computer Vision](#computer-vision)
 	- [Loss Function](#loss-function)
 	- [Feature Interpolation](#feature-interpolation)
