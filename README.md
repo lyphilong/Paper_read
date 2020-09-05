@@ -32,6 +32,7 @@
 ### Image Generation
 
 - [[arXiv:1905.01164] SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164)
+- [[arXiv:2003.11512] Improved Techniques for Training Single-Image GANs (https://arxiv.org/abs/2003.11512)]
 - [[arXiv:1812.00231] InGAN: Capturing and Remapping the "DNA" of a Natural Image](https://arxiv.org/abs/1812.00231) 
 - [[arXiv:2003.06221] Semantic Pyramid for Image Generation](https://arxiv.org/abs/2003.06221)
 
@@ -40,6 +41,7 @@
 
 - [[arXiv:1611.07004] Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 - [[arXiv:1807.09251] GANimation: Anatomically-aware Facial Animation from a Single Image](https://arxiv.org/abs/1807.09251)
+- [[arXiv:2004.02222] Structural-analogy from a Single Image Pair](https://arxiv.org/abs/2004.02222)
 
 <a id="markdown-improving-the-cost-function-the-network-design" name="improving-the-cost-function-the-network-design"></a>
 ### Improving the cost function & the Network design
