@@ -32,7 +32,7 @@
 ### Image Generation
 
 - [[arXiv:1905.01164] SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164)
-- [[arXiv:2003.11512] Improved Techniques for Training Single-Image GANs] (https://arxiv.org/abs/2003.11512)
+- [[arXiv:2003.11512] Improved Techniques for Training Single-Image GANs](https://arxiv.org/abs/2003.11512)
 - [[arXiv:1812.00231] InGAN: Capturing and Remapping the "DNA" of a Natural Image](https://arxiv.org/abs/1812.00231) 
 - [[arXiv:2003.06221] Semantic Pyramid for Image Generation](https://arxiv.org/abs/2003.06221)
 
